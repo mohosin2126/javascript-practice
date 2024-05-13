@@ -12,7 +12,7 @@ else{
 
 
 // Another example 
-if(salary>2500 || height>72){
+if(salary>2500 || height>72 && isBCS==true){
     console.log("eso baba kobul")
 }
 else{
