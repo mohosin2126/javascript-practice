@@ -5,4 +5,9 @@ const person={
     salary:3500,
     married:true
 }
-console.log(person)
+
+// dot notation 
+console.log(person.name)
+
+// bracket notation 
+console.log(person['age'])
